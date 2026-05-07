@@ -1,7 +1,5 @@
 # traffic_signs_image_classification
 
-# traffic_signs_image_classification
-
 PyTorch Traffic Sign Classifier: Custom CNN vs. ResNet18
 Overview
 
