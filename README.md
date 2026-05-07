@@ -1,5 +1,7 @@
 # traffic_signs_image_classification
 
+# traffic_signs_image_classification
+
 PyTorch Traffic Sign Classifier: Custom CNN vs. ResNet18
 Overview
 
@@ -24,15 +26,15 @@ This repository contains two different approaches to the same image classificati
 
     Demonstrates professional computer vision techniques including:
 
-        Freezing pre-trained convolutional backbones (feature extractors).
+    Freezing pre-trained convolutional backbones (feature extractors).
 
-        Replacing the final fully connected layer for a custom 43-class output.
+    Replacing the final fully connected layer for a custom 43-class output.
 
-        Image scaling (224x224) and mathematical Color Normalization matching ImageNet standards.
+    Image scaling (224x224) and mathematical Color Normalization matching ImageNet standards.
 
-        Targeted optimization using a conservative learning rate (0.0001).
+    Targeted optimization using a conservative learning rate (0.0001).
 
-Tech Stack
+3. Tech Stack
 
     Language: Python
 
@@ -42,7 +44,7 @@ Tech Stack
 
     Visualization: Matplotlib
 
-Repository Structure
+4. Repository Structure
 
     train.ipynb - Training loop for the baseline CNN.
 
